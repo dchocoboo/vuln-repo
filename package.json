@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/dchocoboo/vuln-repo#readme",
   "dependencies": {
-    "ghost": "^4.0.1",
+    "ghost": "^4.48.9",
     "git-interface": "^2.1.2",
-    "parse-server": "^4.0.2",
+    "parse-server": "^5.4.0",
     "serverless": "^2.72.3",
     "simple-git": "^3.0.4"
   }
