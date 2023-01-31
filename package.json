@@ -19,7 +19,7 @@
   "dependencies": {
     "ghost": "^4.0.1",
     "git-interface": "^2.1.2",
-    "parse-server": "^4.0.2",
+    "parse-server": "^5.4.1",
     "serverless": "^2.72.3",
     "simple-git": "^3.0.4"
   }
